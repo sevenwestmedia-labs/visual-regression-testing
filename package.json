@@ -1,0 +1,8 @@
+{
+  "name": "visual-regression-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sevenwestmedia-labs/visual-regression-testing.git",
+  "author": "Mandy Michael <mandy.michael@wanews.com.au>",
+  "license": "MIT"
+}
